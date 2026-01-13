@@ -17,6 +17,7 @@ I’m especially interested in:
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- TypeScript
 - Single Page Applications (Vanilla JS)
 - Git & GitHub
 
@@ -24,6 +25,7 @@ I’m especially interested in:
 - Figma
 - Adobe Illustrator
 - Adobe Photoshop
+- Canva
 
 ### Learning / Exploring
 - TypeScript
@@ -41,8 +43,8 @@ An e-commerce project focused on clean structure, reusable components, and respo
 - Product filtering and dynamic content
 - Iterative refactoring and improvement
 
-🔗 **Live demo:** _(add link)_  
-🔗 **Repository:** _(add link)_
+🔗 **Live demo:** _https://groanita.github.io/html-Css-GroAnitaBr-then1/index.html_  
+🔗 **Repository:** _https://github.com/GroAnita/html-Css-GroAnitaBr-then1_
 
 ---
 
@@ -53,8 +55,8 @@ A semester project focused on **user experience and clarity**, including a simpl
 - Playful but accessible design
 - Focus on structure and usability
 
-🔗 **Live demo:** _(add link)_  
-🔗 **Repository:** _(add link)_
+🔗 **Live demo:** _https://groanita.github.io/SP1-Gro-Anita-Br-then/_  
+🔗 **Repository:** _https://github.com/GroAnita/SP1-Gro-Anita-Br-then_
 
 ---
 
@@ -65,8 +67,8 @@ A JavaScript-focused project with cart logic, error handling, and UI improvement
 - Shopping cart logic
 - Alerts and checkout flow improvements
 
-🔗 **Live demo:** _(add link)_  
-🔗 **Repository:** _(add link)_
+🔗 **Live demo:** _https://groanita.github.io/JS1_140925_GroanitaBr-then/_  
+🔗 **Repository:** _https://github.com/GroAnita/JS1_140925_GroanitaBr-then_
 
 ---
 
@@ -97,9 +99,9 @@ This has given me strong skills in:
 
 ## 📫 Get in touch
 
-- 🌐 **Portfolio:** _(add link)_  
-- 📄 **Download CV:** _(add link)_  
-- 💼 **LinkedIn:** _(optional)_
+- 🌐 **Portfolio:** _https://groanita.github.io/portfolio1/_  
+- 📄 **Download CV:** _https://groanita.github.io/about_  
+- 💼 **LinkedIn:** _https://www.linkedin.com/in/gro-anita-brathen-2a0513154/_
 
 Thanks for stopping by ✨  
 Feel free to explore my repositories or reach out.
