@@ -58,7 +58,7 @@ Built as part of my Front-End Development studies, the app focuses on modern Jav
 **Live demo:** _https://groanita.github.io/JS2_CA/_
 **Repository:**  _https://github.com/GroAnita/JS2_CA_
 
-    
+---    
 ### 🌧️ RainyDays
 An e-commerce project focused on clean structure, reusable components, and responsive design.
 
