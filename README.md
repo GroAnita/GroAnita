@@ -36,6 +36,29 @@ I’m especially interested in:
 
 ## 📂 Featured Projects
 
+### Hex and Chill - Javascript 2 project
+Hex & Chill is a fantasy-themed social media SPA where users can share posts, follow other profiles, and interact through comments and reactions in a magical coven setting.
+
+Built as part of my Front-End Development studies, the app focuses on modern JavaScript architecture, API integration, and dynamic user interaction.
+
+- User authentication with JWT
+- Create, edit and delete posts
+- Comment and interact with posts
+- Follow and unfollow other profiles
+- Search functionality (scry)
+- Dynamic image loading with caching
+- Form validation and user feedback
+
+  - JavaScript (ES6 modules)
+  - HTML and Tailwind CSS
+  - Noroff Social API
+  - Vite
+  - Github
+ 
+**Live demo:** _https://groanita.github.io/JS2_CA/_
+**Repository:**  _https://github.com/GroAnita/JS2_CA_
+
+    
 ### 🌧️ RainyDays
 An e-commerce project focused on clean structure, reusable components, and responsive design.
 
