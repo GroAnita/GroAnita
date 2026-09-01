@@ -34,6 +34,28 @@ I’m especially interested in:
 
 ## 📂 Featured Projects
 
+## Stable Management App
+
+A web application built with TypeScript and React, designed to help larger boarding stables manage their day-to-day operations in one place. Running a boarding stable means juggling a lot of moving parts — who's boarding where, what each horse eats and when, who's coming by for a lesson or a vet visit — and this project aims to bring that all into a single, easy-to-use interface.
+
+### Key features
+
+- **Boarder management** — keep track of boarders and their horses in one organized system, instead of scattered spreadsheets or paper records.
+- **Feeding schedules** — set up and manage feeding plans so staff always know what each horse needs and when.
+- **Shared calendar** — coordinate lessons, vet visits, farrier appointments, and other stable events in a central calendar everyone can see.
+
+### Tech stack
+
+Currently a frontend-focused project, built with **TypeScript** and **React**.
+
+### Status
+
+This is a personal project, currently in active development. Testing is planned to begin in January 2027.
+
+**Repository:** [https://github.com/GroAnita/Stable_Manager_app_react](https://github.com/GroAnita/Stable_Manager_app_react)
+
+
+
 ### Hex and Chill - Javascript 2 project
 Hex & Chill is a fantasy-themed social media SPA where users can share posts, follow other profiles, and interact through comments and reactions in a magical coven setting.
 
@@ -87,6 +109,7 @@ A JavaScript-focused project with cart logic, error handling, and UI improvement
 - JavaScript fundamentals
 - Shopping cart logic
 - Alerts and checkout flow improvements
+- My first look at javascript
 
 🔗 **Live demo:** _https://groanita.github.io/JS1_140925_GroanitaBr-then/_  
 🔗 **Repository:** _https://github.com/GroAnita/JS1_140925_GroanitaBr-then_
