@@ -20,17 +20,15 @@ I’m especially interested in:
 - TypeScript
 - Single Page Applications (Vanilla JS)
 - Git & GitHub
+- React
+- MySQL
+- SupaBase
 
 ### Design
 - Figma
 - Adobe Illustrator
 - Adobe Photoshop
 - Canva
-
-### Learning / Exploring
-- TypeScript
-- Accessibility (WCAG)
-- Clean architecture & reusable components
 
 ---
 
