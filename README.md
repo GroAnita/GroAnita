@@ -53,6 +53,7 @@ Currently a frontend-focused project, built with **TypeScript** and **React**.
 This is a personal project, currently in active development. Testing is planned to begin in January 2027.
 
 **Repository:** [https://github.com/GroAnita/Stable_Manager_app_react](https://github.com/GroAnita/Stable_Manager_app_react)
+**Live Demo:** [https://stable-manager-app-react-groanita.vercel.app/auth]
 
 
 
